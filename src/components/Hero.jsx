@@ -15,6 +15,7 @@ const Hero = () => {
           <Button
             text={"Our Service"}
             color={"#ffc400"}
+            bor="border-2"
           />
         </div>
       </div>
